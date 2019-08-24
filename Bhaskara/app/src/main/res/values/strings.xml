@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bhaskara</string>
+    <string name="titulo">Digite os tres valores de sua equação de 2º grau </string>
+    <string name="valor1">A</string>
+    <string name="valor2">B</string>
+    <string name="valor3">C</string>
+    <string name="resultado">Resultado</string>
+    <string name="calcular">CALCULAR</string>
+
+</resources>
